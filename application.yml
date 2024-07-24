@@ -5,4 +5,4 @@ spring:
 status: working
 
 server
-  port:900
+  port: 900
