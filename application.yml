@@ -3,6 +3,5 @@ spring:
     active: dev
 
 status: working
-
-server
-  port: 900
+server:
+  port: 8071
