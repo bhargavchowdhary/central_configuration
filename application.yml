@@ -4,4 +4,4 @@ spring:
 
 status: working
 server:
-  port: 8071
+  port: 8082
