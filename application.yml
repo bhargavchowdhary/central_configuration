@@ -3,5 +3,3 @@ spring:
     active: dev
 
 status: working
-server:
-  port: 8082
